@@ -28,3 +28,7 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+
+# Hostinger
+DO_NOT_UPLOAD_HERE
+public_html/*
